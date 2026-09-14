@@ -1,0 +1,6 @@
+print("line 01 ")
+print("line 02 ")
+print("line 03 ")
+print("line 04 ")
+print("line 05 ")
+print("line 06 ")
